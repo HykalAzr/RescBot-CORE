@@ -1,12 +1,12 @@
-## Rescue Robot - Core module
+# Rescue Robot - Core module
 
-# Target Board
+## Target Board
 STM32F103
 
-# IDE
+## IDE
 STM32CubeIDE
 
-# Functions
+## Functions
 1. To control the motors.
 2. To receive user inputs.
 3. To output message to user.
