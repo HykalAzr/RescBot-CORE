@@ -1,9 +1,9 @@
 ## Rescue Robot - Core module
 
-## Target Board
+# Target Board
 STM32F103
 
-## IDE
+# IDE
 STM32CubeIDE
 
 # Functions
