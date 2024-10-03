@@ -1,4 +1,5 @@
 # Rescue Robot - Core module
+This repository provides the code/firmware for the core module (STM32F103) which allows the robot to do basic navigation, input output and communications.
 
 ## Target Board
 STM32F103
