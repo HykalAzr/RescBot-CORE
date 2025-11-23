@@ -28,6 +28,16 @@
 #include "ST47_Neo6M.h"
 #include "mpu6050.h"
 /* USER CODE END Includes */
+#include "main.h"
+#include "cmsis_os.h"
+
+/* Private includes ----------------------------------------------------------*/
+/* USER CODE BEGIN Includes */
+#include "stdbool.h"
+#include "LoRa.h"
+#include "liquidcrystal_i2c.h"
+#include "ST47_Neo6M.h"
+#include "mpu6050.h"
 
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
